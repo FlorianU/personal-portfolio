@@ -1,10 +1,10 @@
+import "./desktop-introduction.css";
+
 const DesktopIntroduction = () => {
   return (
-    <>
-      <div>
-        <p>INTROOOO</p>
-      </div>
-    </>
+    <div className="">
+      <p>INTROOOO</p>
+    </div>
   );
 };
 
